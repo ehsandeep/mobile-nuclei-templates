@@ -1,7 +1,7 @@
 id: biometric-detect-test
 
 info:
-  name: Biometric or Fingerprint detect
+  name: Biometric or Fingerprint Test
   author: gaurang
   severity: info
 
